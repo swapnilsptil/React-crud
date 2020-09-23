@@ -1,0 +1,18 @@
+.candidateForm {
+    margin: 15px 30px;
+    background-color: rgb(220, 227, 231);
+    padding: 25px;
+    opacity: 0.9;
+}
+
+.paddingZero {
+    padding: 0px;
+}
+
+.searchInput {
+    height: 32px;
+}
+
+.candidateBtn a {
+    color: white;
+}

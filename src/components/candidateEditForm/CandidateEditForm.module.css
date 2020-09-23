@@ -1,0 +1,16 @@
+.candidateForm {
+    margin: 15px 30px;
+    background-color: rgb(220, 227, 231);
+    padding: 25px;
+    opacity: 0.9;
+}
+
+.candidateFormHeading {
+    background: none;
+    background-color: rgb(220, 227, 231);
+    padding: 1rem 0 !important;
+}
+
+.paddingZero {
+    padding:0px;
+}
